@@ -17,11 +17,13 @@ export default
     ],
     users: [
         {
-            id: 'a5810091@gmai.com',
+            id: 1,
+            email: 'a5810091@gmai.com',
             isAdmin: true,
             password: '1x2x3x4'
         },{
-            id: '1',
+            id: 2,
+            email: 'a5810032@gmai.com',
             isAdmin: false,
             password: '1x2x3x4'
         }
